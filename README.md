@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/ömer-furkan-acuner/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/ömer-furkan-acuner/">
 </a>
+    
+<a href="https://www.instagram.com/ofurkanacuner/" target="_blank">
+    <img src="https://img.shields.io/github/followers/ofurkanacuner?label=ofurkanacuner&style=social" alt="https://www.instagram.com/ofurkanacuner/">
+</a>
 
 <a href="mailto:furkanacuner@vakifglobal.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-gmail-B23121" alt="mailto:furkanacuner@vakifglobal.com">
