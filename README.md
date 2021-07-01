@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <b>    
 
-![FurkanAcuner's Github stats](https://github-readme-stats.vercel.app/api?username=ofurkanacuner)
+![FurkanAcuner's Github stats](https://github-readme-stats.vercel.app/api?username=ofurkanacuner) 
 
 <a href="https://www.linkedin.com/in/ömer-furkan-acuner/" target="_blank">
     <img src="https://img.shields.io/badge/%20-linkedin-0072b1" alt="https://www.linkedin.com/in/ömer-furkan-acuner/">
