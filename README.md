@@ -7,7 +7,7 @@
 
 <!-- - 📝 I regularly write articles on [https://medium.com/@ofurkanacuner](https://medium.com/@ofurkanacuner)-->
 
-- 💬 Ask me about **.NET Framework, .NET Core, Distributed Systems and Micro-frontends**
+- 💬 Ask me about **.NET Framework, .NET Core**
 
 - 📫 How to reach me **O.Furkan.Acuner@gmail.com**
 
