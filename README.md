@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/ömer-furkan-acuner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ofurkanacuner" height="30" width="40" /></a>
 <a href="https://instagram.com/ofurkanacuner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ofurkanacuner.dev" height="30" width="40" /></a>
 <a href="https://medium.com/@ofurkanacuner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ofurkanacuner" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ofurkanacuner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="̇ofurkanacuner" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCDa7n_P9s6_YjbMPas_pWhg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="̇ofurkanacuner" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
