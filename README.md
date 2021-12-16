@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ömer Furkan Acuner</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently not working
-
 - 🌱 I’m currently learning **Iyzico and React**
 
 <!-- - 📝 I regularly write articles on [https://medium.com/@ofurkanacuner](https://medium.com/@ofurkanacuner)-->
