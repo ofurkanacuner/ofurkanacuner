@@ -5,7 +5,7 @@
 </h2>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Iyzico and React**
+- 🌱 I’m currently learning **Iyzico and React Native**
 
 <!-- - 📝 I regularly write articles on [https://medium.com/@ofurkanacuner](https://medium.com/@ofurkanacuner)-->
 
